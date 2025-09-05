@@ -33,18 +33,18 @@ Besides, my focus was on data mining, including:
 My works 📝
 ------
 **[Accepted papers]** <br>
-- **Chi-Square Wavelet Graph Neural Networks for Heterogeneous Graph Anomaly Detection**<br>
-**Xiping Li**, Xiangyu Dong, Xingyi Zhang, Kun Xie, Yuanhao Feng, Bo Wang, Guilin Li, Wuxiong Zeng, Xiujun Shu, Sibo Wang<br>
-*31st SIGKDD Conference on Knowledge Discovery and Data Mining*. 2025. **(CCF-A)**
+- **Xiping Li**, Xiangyu Dong, Xingyi Zhang, Kun Xie, Yuanhao Feng, Bo Wang, Guilin Li, Wuxiong Zeng, Xiujun Shu, Sibo Wang,<br>
+"Chi-Square Wavelet Graph Neural Networks for Heterogeneous Graph Anomaly Detection",<br>
+**31st SIGKDD Conference on Knowledge Discovery and Data Mining**. 2025. **(CCF-A)**
 
-- **Category-based and Popularity-guided Video Game Recommendation: A Balance-oriented Framework**<br>
-**Xiping Li**, Jianghong Ma, Kangzhe Liu, Shanshan Feng, Haijun Zhang, Yutong Wang<br>
-*Proceedings of the ACM Web Conference*. 2024. **(CCF-A)**
+- **Xiping Li**, Jianghong Ma, Kangzhe Liu, Shanshan Feng, Haijun Zhang, Yutong Wang,<br>
+"Category-based and Popularity-guided Video Game Recommendation: A Balance-oriented Framework",<br>
+**Proceedings of the ACM Web Conference**. 2024. **(CCF-A)**
 
 **[Papers under review]** <br>
- - **CPGRec+: A Balance-oriented Framework for Personalized Video Game Recommendations**<br>
- **Xiping Li**, Aier Yang, Jianghong Ma, Kangzhe Liu, Shanshan Feng, Haijun Zhang, Yi Zhao<br>
- *ACM Transactions on Information Systems*. 2025. **(CCF-A)** (Major Revision)
+- **Xiping Li**, Aier Yang, Jianghong Ma, Kangzhe Liu, Shanshan Feng, Haijun Zhang, Yi Zhao,<br>
+"CPGRec+: A Balance-oriented Framework for Personalized Video Game Recommendations",<br>
+**ACM Transactions on Information Systems**. 2025. **(CCF-A)** (Major Revision)
 
 Part of awards 🏆
 ------
