@@ -48,7 +48,7 @@ My works 📝
 
 Awards 🏆
 ------
-- National Scholarship (1/173, HITsz, 2023)
+- National Scholarship (1/173, Ministry of Education, PRC, 2023)
 - First-class Academic Scholarship (1/173, HITsz, 2023)
 - Second-class Academic Scholarship (top 10%, HITsz, 2024)
 - Third-class Academic Scholarship (top 20%, HITsz, 2022)
