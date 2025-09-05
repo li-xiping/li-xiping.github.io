@@ -46,7 +46,7 @@ My works 📝
  **Xiping Li**, Aier Yang, Jianghong Ma, Kangzhe Liu, Shanshan Feng, Haijun Zhang, Yi Zhao<br>
  *ACM Transactions on Information Systems*. 2025. **(CCF-A)** (Major Revision)
 
-Awards 🏆
+Part of awards 🏆
 ------
 - National Scholarship (1/173, Ministry of Education, PRC, 2023)
 - First-class Academic Scholarship (1/173, HITsz, 2023)
