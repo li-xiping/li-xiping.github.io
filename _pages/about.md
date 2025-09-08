@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! o(*￣▽￣*)ブ
+Welcome to my homepage! **o(*￣▽￣*)ブ**
 
 
 
@@ -18,7 +18,11 @@ I am an incoming Ph.D. student in [System Engineering and Engineering Managemant
 
 
 
-Research areas 🤔
+Please contact me via my email at lihsiping@gmail.com if you are interested **(*^▽^*)**
+
+
+
+Research areas 🔬
 ------
 Currently, I am working on research related to Multi-modal Large Language Models (MLLMs), including:
 - Multi-modal Chain-of-Thought
