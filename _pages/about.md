@@ -29,9 +29,9 @@ Please contact me via my email at **lihsiping@gmail.com** if you are interested
 
 Research areas 🔬
 ------
-Currently, I am working on research related to Multi-modal Large Language Models (MLLMs), including:
-- Multi-modal Chain-of-Thought
-- Hallucination of MLLMs
+Currently, I am working on research related to Vision-Language Models (VLMs), including:
+- Multimodal Chain-of-Thoughts (especially the interleaved-modal CoT)
+
 
 Besides, my focus was on data mining, including:
 - Graph Neural Networks
@@ -49,6 +49,8 @@ My works 📝
 - **Xiping Li**, Jianghong Ma, Kangzhe Liu, Shanshan Feng, Haijun Zhang, Yutong Wang,<br>
 "Category-based and Popularity-guided Video Game Recommendation: A Balance-oriented Framework",<br>
 **Proceedings of the ACM Web Conference**. 2024. **(CCF-A)**
+
+<br>
 
 **[Papers under review]** <br>
 - **Xiping Li**, Aier Yang, Jianghong Ma, Kangzhe Liu, Shanshan Feng, Haijun Zhang, Yi Zhao,<br>
