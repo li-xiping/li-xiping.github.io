@@ -16,9 +16,10 @@ About me ⛵
 
 I am an incoming Ph.D. student in [System Engineering and Engineering Managemant (SEEM)](https://www.se.cuhk.edu.hk/) at [the Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/), Hong Kong SAR, supervised by [Prof. Wai Lam](https://www.se.cuhk.edu.hk/people/academic-staff/prof-lam-wai/). 
 
-Prior to this, I received my Bachelor’s degree from [Harbin Institute of Technology, Shenzhen (HITsz)](https://www.hitsz.edu.cn/index.html) in June 2025, where I was lucky to receive the guidance from [Prof. Jianghong Ma](https://faculty.hitsz.edu.cn/majianghong) and [Prof. Shanshan Feng](https://jszy.whu.edu.cn/fengshanshan12/zh_CN/).
+Prior to this, I received my Bachelor’s degree in Data Science and Big Data Technology from [Harbin Institute of Technology, Shenzhen (HITsz)](https://www.hitsz.edu.cn/index.html) in June 2025. 
 
-I also worked as a research intern at Tencent Weixin Group (WXG), Shenzhen under the supervision of [Prof. Sibo Wang](https://www1.se.cuhk.edu.hk/~swang/) (at CUHK) from Sep. 2024 to Jun. 2025, where I was also luckily guided by [Yuanhao Feng](https://openreview.net/profile?id=~Yuanhao_Feng2), [Dr. Guilin Li](https://openreview.net/profile?id=~Guilin_Li2), and [Bo Wang](https://openreview.net/profile?id=~Bo_Wang50).
+
+During my undergraduate studies, it was my great honor to receive the guidance from [Prof. Jianghong Ma](https://faculty.hitsz.edu.cn/majianghong), [Prof. Shanshan Feng](https://jszy.whu.edu.cn/fengshanshan12/zh_CN/) at HITsz, and [Prof. Sibo Wang](https://www1.se.cuhk.edu.hk/~swang/) at CUHK. I also worked as a research intern at Tencent Weixin Group (WXG), Shenzhen from Sep. 2024 to Jun. 2025, where I was luckily guided by [Yuanhao Feng](https://openreview.net/profile?id=~Yuanhao_Feng2), [Dr. Guilin Li](https://openreview.net/profile?id=~Guilin_Li2), and [Bo Wang](https://openreview.net/profile?id=~Bo_Wang50). 
 
 
 
@@ -28,11 +29,11 @@ Please contact me via my email at **lihsiping@gmail.com** if you are interested
 
 Research areas 🔬
 ------
-Currently, I am focusing on Multi-modal Large Language Models (MLLMs), including:
+Currently, I am working on research related to Multi-modal Large Language Models (MLLMs), including:
 - Multi-modal Chain-of-Thought
 - Hallucination of MLLMs
 
-Besides, my focus was on graph learning and data mining, including:
+Besides, my focus was on data mining, including:
 - Graph Neural Networks
 - Graph Anomaly Detection
 - Recommender Systems
