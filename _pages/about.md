@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Xiping LI 李熙平"
+title: "Personal Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to my homepage! **o(*￣▽￣*)ブ**
+Welcome to my homepage! 🦇
 
 
 
@@ -18,7 +18,7 @@ I am an incoming Ph.D. student in [System Engineering and Engineering Managemant
 
 
 
-Please contact me via my email at lihsiping@gmail.com if you are interested **(*^▽^*)**
+Please contact me via my email at lihsiping@gmail.com if you are interested **
 
 
 
@@ -49,6 +49,11 @@ My works 📝
 - **Xiping Li**, Aier Yang, Jianghong Ma, Kangzhe Liu, Shanshan Feng, Haijun Zhang, Yi Zhao,<br>
 "CPGRec+: A Balance-oriented Framework for Personalized Video Game Recommendations",<br>
 **ACM Transactions on Information Systems**. 2025. **(CCF-A)** (Major Revision)
+
+- **Xiping Li**, Jianghong Ma, <br>
+"AIMCoT: Active Information-driven Multimodal Chain-of-Thought for Vision-Language Reasoning",
+<br>
+arxiv. submitted to ICLR 2026.
 
 Part of awards 🏆
 ------
