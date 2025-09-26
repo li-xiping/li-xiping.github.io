@@ -56,8 +56,7 @@ My works 📝
 **ACM Transactions on Information Systems**. 2025. **(CCF-A)** (Major Revision)
 
 - **Xiping Li**, Jianghong Ma, <br>
-"AIMCoT: Active Information-driven Multimodal Chain-of-Thought for Vision-Language Reasoning",
-<br>
+"AIMCoT: Active Information-driven Multimodal Chain-of-Thought for Vision-Language Reasoning",<br>
 arxiv. submitted to ICLR 2026.
 
 Part of awards 🏆
