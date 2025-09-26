@@ -69,7 +69,7 @@ Part of awards 🏆
 - Meritorious Winner in [Mathematical Contest in Modeling](https://www.comap.com/contests/mcm-icm) (top 9%, 2023)
  
 
-Services 
+Services 🦹‍♂️
 ------
 I am/was a program committee member for the following conferences:
 - ACM Web Conference (WWW): 2026, 2025
