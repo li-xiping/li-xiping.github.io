@@ -57,7 +57,7 @@ My works 📝
 "CPGRec+: A Balance-oriented Framework for Personalized Video Game Recommendations",<br>
 **ACM Transactions on Information Systems**. 2025. **(CCF-A)** (Major Revision)
 
-- **Xiping Li**, Jianghong Ma, <br>
+- **Xiping Li**, Jianghong Ma, Yujun Cai, <br>
 "AIMCoT: Active Information-driven Multimodal Chain-of-Thought for Vision-Language Reasoning",<br>
 arxiv. submitted to ICLR 2026.
 
