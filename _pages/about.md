@@ -29,8 +29,8 @@ Please contact me via my email at **lihsiping@gmail.com** if you are interested
 
 Research areas 🔬
 ------
-Currently, I am working on research related to Vision-Language Models (VLMs), including:
-- Multimodal Chain-of-Thoughts (especially the interleaved-modal CoT)
+Currently, I am working on research related to Vision-Language Reasoning, including:
+- Multimodal Chain-of-Thoughts (especially the Interleaved-Modal CoT)
 
 
 Besides, my focus was on data mining, including:
@@ -46,6 +46,11 @@ My works 📝
 "Chi-Square Wavelet Graph Neural Networks for Heterogeneous Graph Anomaly Detection",<br>
 **31st SIGKDD Conference on Knowledge Discovery and Data Mining**. 2025. **(CCF-A)**
 
+- **Xiping Li**, Aier Yang, Jianghong Ma, Kangzhe Liu, Shanshan Feng, Haijun Zhang, Yi Zhao,<br>
+"CPGRec+: A Balance-oriented Framework for Personalized Video Game Recommendations",<br>
+**ACM Transactions on Information Systems**. 2025. **(CCF-A)**
+  
+
 - **Xiping Li**, Jianghong Ma, Kangzhe Liu, Shanshan Feng, Haijun Zhang, Yutong Wang,<br>
 "Category-based and Popularity-guided Video Game Recommendation: A Balance-oriented Framework",<br>
 **Proceedings of the ACM Web Conference**. 2024. **(CCF-A)**
@@ -53,13 +58,17 @@ My works 📝
 <br>
 
 **[Papers under review]** <br>
-- **Xiping Li**, Aier Yang, Jianghong Ma, Kangzhe Liu, Shanshan Feng, Haijun Zhang, Yi Zhao,<br>
-"CPGRec+: A Balance-oriented Framework for Personalized Video Game Recommendations",<br>
-**ACM Transactions on Information Systems**. 2025. **(CCF-A)** (Major Revision)
 
-- **Xiping Li**, Jianghong Ma, Yujun Cai, <br>
+
+- **Xiping Li**, Jianghong Ma, <br>
 "AIMCoT: Active Information-driven Multimodal Chain-of-Thought for Vision-Language Reasoning",<br>
-arxiv. submitted to ICLR 2026.
+under review. 2025.
+
+- **Xiping Li**, Yiwei Wang, Yujun Cai, <br>
+"ADROIT: Adaptive Decision for Reasoning-Optimized Interleaved Thought in Multimodal Reasoning",<br>
+under review. 2025.
+  
+
 
 Part of awards 🏆
 ------
