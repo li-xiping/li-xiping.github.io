@@ -45,7 +45,7 @@ My works 📝
 
 - **Xiping Li**, Jianghong Ma, <br>
 "AIM-CoT: Active Information-driven Multimodal Chain-of-Thought for Vision-Language Reasoning",<br>
-**ACL 2026**. 2026. **(CCF-A)**
+**ACL 2026 (Main Conference)**. 2026. **(CCF-A)**
 
 
 - **Xiping Li**, Xiangyu Dong, Xingyi Zhang, Kun Xie, Yuanhao Feng, Bo Wang, Guilin Li, Wuxiong Zeng, Xiujun Shu, Sibo Wang,<br>
