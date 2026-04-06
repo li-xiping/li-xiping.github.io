@@ -42,6 +42,12 @@ Besides, my focus was on data mining, including:
 My works 📝
 ------
 **[Accepted papers]** <br>
+
+- **Xiping Li**, Jianghong Ma, <br>
+"AIM-CoT: Active Information-driven Multimodal Chain-of-Thought for Vision-Language Reasoning",<br>
+**ACL 2026**. 2026. **(CCF-A)**
+
+
 - **Xiping Li**, Xiangyu Dong, Xingyi Zhang, Kun Xie, Yuanhao Feng, Bo Wang, Guilin Li, Wuxiong Zeng, Xiujun Shu, Sibo Wang,<br>
 "Chi-Square Wavelet Graph Neural Networks for Heterogeneous Graph Anomaly Detection",<br>
 **31st SIGKDD Conference on Knowledge Discovery and Data Mining**. 2025. **(CCF-A)**
@@ -60,14 +66,17 @@ My works 📝
 **[Papers under review]** <br>
 
 
-- **Xiping Li**, Jianghong Ma, <br>
-"AIMCoT: Active Information-driven Multimodal Chain-of-Thought for Vision-Language Reasoning",<br>
-under review. 2025.
 
-- **Xiping Li**, Yiwei Wang, Yujun Cai, <br>
+
+- First author, <br>
 "ADROIT: Adaptive Decision for Reasoning-Optimized Interleaved Thought in Multimodal Reasoning",<br>
-under review. 2025.
-  
+under review. 2026.
+
+- First author, <br>
+  "SAVE-CoT: Stepwise Actionable Verification for Evidence-grounded Chain-of-Thought",<br>
+under review. 2026.
+
+
 
 
 Part of awards 🏆
