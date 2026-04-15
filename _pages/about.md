@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xiping LI 李熙平"
+title: "李熙平 Xiping LI"
 author_profile: true
 redirect_from: 
   - /about/
@@ -29,8 +29,10 @@ Please contact me via my email at **lihsiping@gmail.com** if you are interested
 
 Research areas 🔬
 ------
-Currently, I am working on research related to Vision-Language Reasoning, including:
-- Multimodal Chain-of-Thoughts (especially the Interleaved-Modal CoT)
+Currently, I am working on research related to Vision-Language Models, including:
+- Multimodal Chain-of-Thoughts for Visual Question Answering
+- Mechanistic Interpretability
+- Efficient Reasoning
 
 
 Besides, my focus was on data mining, including:
