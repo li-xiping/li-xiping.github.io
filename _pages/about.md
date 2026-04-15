@@ -35,7 +35,7 @@ Currently, I am working on research related to Vision-Language Models, including
 - Efficient Reasoning
 
 
-Data Mining is the beginning of my research, which I am still interested in:
+Data Mining is where my research began and has left me with unforgettable memories:
 - Graph Neural Networks
 - Graph Anomaly Detection
 - Recommender Systems
