@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "李熙平 Xiping LI"
+title: "Xiping LI 李熙平 - 哈尔滨工业大学（深圳）/香港中文大学"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,7 +14,7 @@ Welcome to my homepage! 🦇
 About me ⛵
 ------
 
-I am an incoming Ph.D. student in [System Engineering and Engineering Managemant (SEEM)](https://www.se.cuhk.edu.hk/) at [the Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/), Hong Kong SAR, supervised by [Prof. Wai Lam](https://www.se.cuhk.edu.hk/people/academic-staff/prof-lam-wai/). 
+I am an incoming Ph.D. student in [System Engineering and Engineering Managemant (SEEM)](https://www.se.cuhk.edu.hk/) at [the Chinese University of Hong Kong (CUHK) 香港中文大学](https://www.cuhk.edu.hk/english/), Hong Kong SAR, supervised by [Prof. Wai Lam](https://www.se.cuhk.edu.hk/people/academic-staff/prof-lam-wai/). 
 
 Prior to this, I received my Bachelor’s degree in Data Science and Big Data Technology from [Harbin Institute of Technology, Shenzhen (HITsz) 哈尔滨工业大学（深圳）](https://www.hitsz.edu.cn/index.html) in June 2025 (GPA 91.86/100, rank 10/172). 
 
