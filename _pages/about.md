@@ -23,7 +23,7 @@ During my undergraduate studies, it was my great honor to receive the guidance f
 
 
 
-Please contact me via my email at **lihsiping@gmail.com** if you are interested 
+Please contact me via my email at **lihsiping@gmail.com** if you are interested. 
 
 
 
