@@ -34,16 +34,11 @@ Please contact me via my email at **lihsiping@gmail.com** if you are interested.
 
 Research areas 🔬
 ------
-Currently, I am working on research related to Vision-Language Models, including:
+
+At the current stage, I center the focus of my research on the intersection between Large Models and Recommender Systems. I am also interested in
 - Multimodal Chain-of-Thoughts for Visual Question Answering
-- Mechanistic Interpretability
-- Efficient Reasoning
-
-
-Data Mining is where my research began and has left me with unforgettable memories:
 - Graph Neural Networks
 - Graph Anomaly Detection
-- Recommender Systems
 
 
 My works 📝
