@@ -21,7 +21,7 @@ Prior to this,
 -->
 I will be heading to [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/computing) in Singapore for my PhD research. I am honored to have my research funded and supervised by [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/).
 
-I received my Bachelor’s degree in Data Science and Big Data Technology from [Harbin Institute of Technology, Shenzhen (HITsz)（哈尔滨工业大学 深圳）](https://www.hitsz.edu.cn/index.html) in June 2025 (GPA 91.86/100, Rank 10/172, National Scholarship*1). 
+I received my Bachelor’s degree in Data Science and Big Data Technology from [Harbin Institute of Technology, Shenzhen (HITsz)（哈尔滨工业大学 深圳）](https://www.hitsz.edu.cn/index.html) in June 2025 (GPA 91.86/100, Rank 10/172, National Scholarship *1). 
 
 
 During my undergraduate studies, it was my great honor to receive the guidance from [Prof. Jianghong Ma](https://faculty.hitsz.edu.cn/majianghong), [Prof. Shanshan Feng](https://jszy.whu.edu.cn/fengshanshan12/zh_CN/) at HITsz, and [Prof. Sibo Wang](https://www1.se.cuhk.edu.hk/~swang/) at CUHK. I also worked as a research intern at Tencent Weixin Group (WXG), Shenzhen from Sep. 2024 to Jun. 2025, where I was luckily guided by [Yuanhao Feng](https://openreview.net/profile?id=~Yuanhao_Feng2), [Dr. Guilin Li](https://openreview.net/profile?id=~Guilin_Li2), and [Bo Wang](https://openreview.net/profile?id=~Bo_Wang50). 
@@ -35,10 +35,11 @@ Please contact me via my email at **lihsiping@gmail.com** if you are interested.
 Research areas 🔬
 ------
 
-At the current stage, I center the focus of my research on the intersection between Large Models and Recommender Systems. I am also interested in
+At present, my research centers on the intersection between Large Models and Recommender Systems. My broader research interests also include
 - Multimodal Chain-of-Thoughts for Visual Question Answering
-- Graph Neural Networks
-- Graph Anomaly Detection
+- Graph Learning (e.g., GNN-based Recommendations and Graph Anomaly Detection)
+
+
 
 
 My works 📝
