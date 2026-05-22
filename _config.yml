@@ -7,7 +7,7 @@
 # server process. 
 
 # Basic Site Settings
-locale                   : "Fujian; Singapore"
+locale                   : "Singapore; Fujian"
 site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Xiping Li"
 title_separator          : "-"
@@ -26,7 +26,7 @@ author:
   name             : "Xiping Li"
   pronouns         : # example: "he/his"  
   # bio              : "Incoming PhD student@CUHK"
-  location         : "Fujian; Singapore"
+  location         : "Singapore; Fujian"
   # employer         : "Red Brick University"
   # uri              : # URL
   email            : "lihsiping@gmail.com" 
