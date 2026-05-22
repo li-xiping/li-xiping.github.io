@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Hong Kong SAR; Shenzhen"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Xiping LI 李熙平"
+locale                   : "Fujian; Singapore"
+site_theme               : "air" # Currently available options are "default", "air"
+title                    : "Xiping Li"
 title_separator          : "-"
-name                     : &name "Xiping LI"
+name                     : &name "Xiping Li"
 # description              : &description "personal description"
 url                      : https://li-xiping.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 # baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,11 +22,11 @@ repository               : "https://github.com/li-xiping/li-xiping.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Xiping LI"
+  avatar           : "my_fig.png"
+  name             : "Xiping Li"
   pronouns         : # example: "he/his"  
-  bio              : "Incoming PhD student@CUHK"
-  location         : "Hong Kong SAR; Shenzhen"
+  # bio              : "Incoming PhD student@CUHK"
+  location         : "Fujian; Singapore"
   # employer         : "Red Brick University"
   # uri              : # URL
   email            : "lihsiping@gmail.com" 
@@ -47,7 +47,7 @@ author:
   # bitbucket        : # Username - Update with your username on the site
   # codepen          : # Username
   # dribbble         : # Username
-  github           : "https://github.com/HsipingLi/"
+  # github           : "https://github.com/HsipingLi/"
   # kaggle           : # Username  
   # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
