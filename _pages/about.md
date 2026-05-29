@@ -20,9 +20,7 @@ I am an incoming Ph.D. student in [System Engineering and Engineering Managemant
 Prior to this, 
 -->
 
-My PhD journey takes me to [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/computing), where I am honored to conduct research funded and supervised by Prof. Jie Zhang.
-
-I head to  in Singapore for my PhD research. I am honored to have my research funded and supervised by [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/).
+My PhD journey takes me to [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/computing), where I am honored to conduct research funded and supervised by [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/).
 
 I received my Bachelor’s degree in Data Science and Big Data Technology from [Harbin Institute of Technology, Shenzhen (HITsz)（哈尔滨工业大学 深圳）](https://www.hitsz.edu.cn/index.html) in June 2025 (GPA 91.86/100, Rank 10/172, National Scholarship *1). 
 
